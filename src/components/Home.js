@@ -66,4 +66,5 @@ export default Home
 
 const Container = styled.div`
   height: 200vh;
+  z-index: 10;
 `
